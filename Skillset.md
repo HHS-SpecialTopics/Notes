@@ -10,10 +10,48 @@
   - Arduino
   - Windows/Unix Development
   - Android
-  - IOS*
+  - _IOS_ (Will be possible within two months)
   
 - General
   - Object-Oriented Programming
-  
 
-<p>*&emsp;IOS development will be possible within the next two monthsM</p>
+# Individual Experience
+### Christopher Lutz
+- 5 years experience
+- Fluent in
+  - Java
+  - HTML/JavaScript/CSS
+- Adept in
+  - PHP
+  - Ruby
+
+### Nathan Merz
+- 5 years experience
+- Fluent in
+  - Java
+  - Arduino
+- Adept in
+  - Python
+  - Swift
+  - C#
+- Interned with
+  - Riverside MFG (Summer 2016)
+
+### Peyton Ratliff
+- 5 years experience
+- Fluent in
+  - Java
+- Adept in
+  - C++
+  - C#
+  - Batch/DOS
+  - Python
+
+### Scott Hockema
+- 3 years experience
+- Fluent in
+  - Java
+  - Arduino
+- Adept in
+  - C++
+  - C#
