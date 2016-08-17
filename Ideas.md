@@ -1,4 +1,4 @@
 # Ideas
-- [ ] App for elementry
-- [ ] Project Euler
-- [ ] Competitions - CTFs?
+- [ ] App for elementry - Contact Don chase
+- [ ] Competitions - Research CTFs
+- [ ] Outreach to comapnies - Write letter, research companies
