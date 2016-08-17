@@ -44,10 +44,10 @@
 - 5 years experience
 - Fluent in
   - Java
+  - Batch/DOS
 - Adept in
   - C++
   - C#
-  - Batch/DOS
   - Python
 
 ### Scott Hockema
