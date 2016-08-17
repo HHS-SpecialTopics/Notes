@@ -21,9 +21,12 @@
 - Fluent in
   - Java
   - HTML/JavaScript/CSS
-- Adept in
   - PHP
+- Adept in
   - Ruby
+  - C++
+  - C#
+  - Python
 
 ### Nathan Merz
 - 5 years experience
