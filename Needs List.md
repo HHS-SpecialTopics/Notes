@@ -1,4 +1,3 @@
-# Needs for _Computer Science - Special Topics_
 ## Programs
 - [ ] Ruby ([Ruby Site](https://www.ruby-lang.org/en/))
 - [ ] Jekyll ([Jekyll Site](https://jekyllrb.com/))
