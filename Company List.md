@@ -6,3 +6,5 @@
 - [ ] Reusser Design (http://reusserdesign.com/) (hello@reusserdesign.com)
 - [ ] Aptera Software (http://www.apterainc.com/) (N/A)
 - [ ] OmniSource (http://www.omnisource.com/) (info@omnisource.com)
+- [ ] BioPoly (http://biopolyortho.com/Home.aspx) (info@biopolyortho.com)
+- [ ] Digital Hydraulic (http://digitalhydraulic.com/) (contact@digitalhydraulic.com)
