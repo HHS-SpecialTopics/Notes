@@ -48,9 +48,9 @@
   - Java
   - Batch/DOS
 - Adept in
-  - C++
   - C#
   - Python
+  - C++
 
 ### Scott Hockema
 - 3 years experience
