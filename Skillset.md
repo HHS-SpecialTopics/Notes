@@ -5,6 +5,7 @@
   - PHP
   - Ruby
   - Python
+  - C#
   
 - Technologies/Hardware
   - Arduino
