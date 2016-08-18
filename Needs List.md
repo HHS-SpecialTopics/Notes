@@ -9,5 +9,6 @@
 
 ## Hardware
 - [ ] IOS development gear (MacBooks, iPads, etc.)
-- [ ] Personal server (for Rails, JSP, HTML webpages)
+- [ ] Personal server (for Rails, JSP, HTML webpages or server testing)
+  - Could also be used for security testing
 - [ ] Larger stand-alone monitors (for dual-screen/larger viewing)
