@@ -15,6 +15,7 @@
   
 - General
   - Object-Oriented Programming
+  - Agile Development
 
 # Individual Experience
 ### Christopher Lutz
