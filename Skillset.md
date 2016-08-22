@@ -6,6 +6,7 @@
   - Ruby
   - Python
   - C#
+  - C++
   
 - Technologies/Hardware
   - Arduino
