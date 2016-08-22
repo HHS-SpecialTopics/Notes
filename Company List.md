@@ -12,6 +12,6 @@
 - [ ] WebApp4Biz (http://www.webapp4biz.com) (amontoya@webapp4biz.com)
 - [ ] Lewis Virtual Services Company (www.medicaldentalseo.com) (danielwlewis@gmail.com)
 - [ ] Mercury Wireless ( www.mercurywireless.com) (info@mercurywireless.com)
-- [ ] Maven Web Solutions, LLC (mavenwebsolutions.com) (cameron@mavenwebsolutions.com)
+- [ ] Maven Web Solutions, LLC (www.mavenwebsolutions.com) (cameron@mavenwebsolutions.com)
 - [ ] Bravel Limited (www.bravell.org) (bravell@live.com) (paul@bravell.com(CEO))
 - [ ] Long Tail Technology (www.longtailtechnology.com/) (info@longtailtechnology.com)
