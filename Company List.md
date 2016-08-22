@@ -9,7 +9,7 @@
 - [ ] BioPoly (http://biopolyortho.com/Home.aspx) (info@biopolyortho.com)
 - [ ] Digital Hydraulic (http://digitalhydraulic.com/) (contact@digitalhydraulic.com)
 - [ ] Russet Design (http://www.russettdesign.com/) (mark@russettdesign.com)
-- [ ] WebApp4Biz (webapp4biz.com) (amontoya@webapp4biz.com)
+- [ ] WebApp4Biz (http://www.webapp4biz.com) (amontoya@webapp4biz.com)
 - [ ] Lewis Virtual Services Company (www.medicaldentalseo.com) (danielwlewis@gmail.com)
 - [ ] Mercury Wireless ( www.mercurywireless.com) (info@mercurywireless.com)
 - [ ] Maven Web Solutions, LLC (mavenwebsolutions.com) (cameron@mavenwebsolutions.com)
