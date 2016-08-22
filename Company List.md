@@ -15,4 +15,3 @@
 - [ ] Maven Web Solutions, LLC (mavenwebsolutions.com) (cameron@mavenwebsolutions.com)
 - [ ] Bravel Limited (www.bravell.org) (bravell@live.com) (paul@bravell.com(CEO))
 - [ ] Long Tail Technology (www.longtailtechnology.com/) (info@longtailtechnology.com)
-- [ ] 
