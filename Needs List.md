@@ -5,6 +5,7 @@
 - [ ] IntelliJ IDEA ([IntelliJ IDEA Site](https://www.jetbrains.com/idea/))
 - [ ] PyCharm ([PyCharm Site](https://www.jetbrains.com/pycharm/))
 - [ ] VirtualBox ([VirtualBox Site](https://www.virtualbox.org/wiki/Downloads))
+- [ ] Visual Studio ([Visual Studio Site](https://beta.visualstudio.com/free-developer-offers/))
 
 ## Hardware
 - [ ] IOS development gear (MacBooks, iPads, etc.)
