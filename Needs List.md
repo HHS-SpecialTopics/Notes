@@ -1,11 +1,13 @@
 ## Programs
 - [ ] Ruby ([Ruby Site](https://www.ruby-lang.org/en/)) ```Workaround: Install from ZIP```
 - [ ] Jekyll ([Jekyll Site](https://jekyllrb.com/))
-- [x] Android Studio ([Android Studio Site](https://developer.android.com/studio/index.html)) ```Installed, but Broken```
 - [ ] IntelliJ IDEA ([IntelliJ IDEA Site](https://www.jetbrains.com/idea/))
 - [ ] PyCharm ([PyCharm Site](https://www.jetbrains.com/pycharm/))
 - [ ] VirtualBox ([VirtualBox Site](https://www.virtualbox.org/wiki/Downloads))
 - [ ] Visual Studio ([Visual Studio Site](https://beta.visualstudio.com/free-developer-offers/))
+
+## Unblocking
+- [ ] *.netau.net (PHP testing)
 
 ## Hardware
 - [ ] IOS development gear (MacBooks, iPads, etc.)
