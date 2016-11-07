@@ -12,7 +12,7 @@
   - Arduino
   - Windows/Unix Development
   - Android
-  - _IOS_ (Will be possible within two months)
+  - iOS
   
 - General
   - Object-Oriented Programming
